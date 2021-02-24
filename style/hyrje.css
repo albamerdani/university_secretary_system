@@ -1,0 +1,8 @@
+body		{background-color:#ADD8E6;}
+h1			{font-family:arisl,georgian,sans-serif; color:#800000; text-align:center}
+a:hover		{text-decoration:none; text-color:blue;}
+.buton		{background-color:royalblue; text-color:white;}
+.div 		{position:fixed; left:40%; top:30%; font-size:20pt; background-color:lightyellow}
+#footer		{position:absolute; left:40%; bottom:0%; color:black;}
+#log_in		{background-color:black; color:white; height:8%; font-size:18px; left:20%;}
+#reset		{background-color:black; color:white; height:8%; font-size:18px; left:30%;}

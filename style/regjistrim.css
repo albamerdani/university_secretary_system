@@ -1,0 +1,20 @@
+/*
+body		{background-color:lightskyblue;}
+img			{position:fixed; left:60%; top:10%;}
+.buton		{background-color:black; color:white;}
+.div		{left:50%; top:20%; font-family:arial,sanserif; font-size:14pt;}
+.p			{font-family:arial,sanserif; font-size:20pt; font-style:italic; color:yellow;}
+*/
+body							{background-color:#D7FFEB;}
+/*#div{position:fixed; top:20%; left:40%; width:20%; height:30%; background-color:black; color:white; font-style:bold;}
+#div input{color:black;}
+#div table{margin:20px;}*/
+td								{padding:3px;}
+a:hover							{color:yellow;}
+
+#regjistrim						{position:absolute; top:10%; left:30%; width:50%; height:85%; background-color:black; color:white; font-style:bold; font-size:16pt;}
+#reset							{position:absolute; top:10%; left:30%; width:50%; height:85%; background-color:black; color:white; font-style:bold; font-size:16pt;}
+#regjistrim input					{color:black;}
+#regjistrim table					{margin:30px; color:white;}
+#regjistrim input[type="submit"]	{margin:30px;}
+#logout							{position:absolute; bottom:8%; left:60%;}

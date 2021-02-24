@@ -1,0 +1,5 @@
+body 				{font-size:20pt;}
+header				{font-size:30pt; color:#DC143C; text-align:center; height:100px; background-color:#F0F8FF;}
+#menu				{position:absolute; top:20%; left:5%;}
+#postime			{position:absolute; top:20%; right:10%;}
+p > #logout			{position:absolute; top:20%; left:50%;}

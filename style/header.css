@@ -1,0 +1,32 @@
+#header 			{/* position:fixed;  */margin:0 0 0 0; min-width:100%; max-width:100%; height:250px; 
+					background-color:blue; background:linear-gradient(top, #FFF8DC, #696969); background:-moz-linear-gradient(top, #FFF8DC, #696969); 
+					background:-webkit-linear-gradient(top, #FFF8DC, #696969); background:-o-linear-gradient(top, #FFF8DC, #696969); 
+					background:-ms-linear-gradient(top, #FFF8DC, #696969); padding:0; color:red;}
+					
+#slider			{position:absolute; top:180px; left:4%; width:90%; height:50%;}
+
+#cover			{position:absolute; top:180px; left:4%; width:90%; height:50%;}
+
+#cover>img		{width:100%; height:100%; position:relative;}
+
+#cover>.btn		{width:30px; height:30px; position:relative; border:none; border-radius:25px; top:10%; left:5%; background:black; color:white; font-size:15px;}
+
+#cover>#next	{position:relative; float:right; top:10%; left:5%;}
+
+.slide			{width:90%; height:50%; top:150px; left:4%; position:absolute; display:none;}
+
+h1				{text-align:center; font-family:Times New Roman; color:#800000; top:5px;}
+
+#header h1 		{position:relative; align:center; top:30%; left:30%; font-size:400%; color:#800000; margin:10px 10px 10px 20px; text-shadow: 3px 3px 3px #000; 
+					transform:perspective(200px) rotateX(10deg) rotateY(18deg) rotateZ(3deg); width:487px;}
+
+#logo			{position:absolute; left:0%; top:1.2%; height:250px;}
+/*
+body{animation:change 5s ease infinite;}
+.image{position:relative; left:10%; margin:50px;}
+#image1{animation:move 5s 0s linear infinite;}
+#image2{animation:move 5s 1s linear infinite;}
+#image3{animation:move 5s 0.5s linear infinite;}
+@keyframes move{0%{top:-25px;}}
+@keyframes move{100%{top:600px;}}
+*/
